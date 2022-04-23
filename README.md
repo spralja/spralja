@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 - 🔭 I’m currently working on a portfolio website
 - 🌱 I’m currently learning Microsoft Azure
+-->

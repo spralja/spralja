@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/56681655/184517666-0367f999-7f69-478c-b4f4-6c960984db3b.png)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spralja&theme=tokyonight)
 
 <!--### Hi there 👋
 

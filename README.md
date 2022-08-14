@@ -1,4 +1,4 @@
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@spralja" frameborder="0"></iframe>
+![image](https://user-images.githubusercontent.com/56681655/184517666-0367f999-7f69-478c-b4f4-6c960984db3b.png)
 
 <!--### Hi there 👋
 

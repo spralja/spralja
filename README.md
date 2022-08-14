@@ -1,4 +1,4 @@
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spralja&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spralja&theme=tokyonight)
 
 <!--### Hi there 👋
 

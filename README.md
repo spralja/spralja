@@ -1,3 +1,6 @@
+<a href="https://www.linkedin.com/in/rspralja/"><img src="LI-In-Bug.png" alt="LinkedIn" width="100"></img></a>
+
+<br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spralja&theme=tokyonight)
 
 <!--### Hi there 👋
